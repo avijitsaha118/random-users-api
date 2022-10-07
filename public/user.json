@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "gender": "Half-human",
+        "name": "Aquia Man",
+        "contact": "283-9658-3826",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/0nsHqr4/aquia.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "Super Hero",
+        "name": "Batman",
+        "contact": "988-0256-9854",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/K9QXf6J/batman.webp"
+    },
+    {
+        "id": 3,
+        "gender": "Female",
+        "name": "Cat Woman",
+        "contact": "588-6335-0288",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/Wt1gPwS/catwoman.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "Ruler",
+        "name": "Darkseid",
+        "contact": "602-2896-5417",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/xDkp0J2/Darkseid.jpg"
+    },
+    {
+        "id": 5,
+        "gender": "Male",
+        "name": "Doctorfate",
+        "contact": "852-561-2223",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/THNyTC4/doctorfate.webp"
+    },
+    {
+        "id": 6,
+        "gender": "Male",
+        "name": "Green Arrow",
+        "contact": "650-5874-9632",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/5YN5KV2/greenarrow.jpg"
+    },
+    {
+        "id": 7,
+        "gender": "Female",
+        "name": "Zarah McCoole",
+        "contact": "355-711-6326",
+        "address": "7 Tennyson Crossing",
+        "photoURL": "https://robohash.org/eiusnihilesse.png?size=500x500&set=set1"
+    },
+    {
+        "id": 8,
+        "gender": "Male",
+        "name": "Red Torando",
+        "contact": "245-5455-5458",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/sHhDBQb/Red-Tornado.png"
+    },
+    {
+        "id": 9,
+        "gender": "Male",
+        "name": "Red hood",
+        "contact": "854-7565-6985",
+        "address": "marvel & DC",
+        "photoURL": "https://i.ibb.co/Js639N6/Red-hood.jpg"
+    }
+]
